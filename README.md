@@ -10,3 +10,12 @@ This project scopes on a lead acid battery charger seamlessly interfaces with a 
 1.Constant current mode <br>
 2.Constant voltage mode <br>
 3.Floating charging mode <br>
+
+## Functionality
+<img src="Functional Block Diagram.png" alt="Lead acid">
+
+## Contributors
+[Shemal Perera]
+[Kehan Anjula]
+[Nipun Anisha]
+[Samudra Uduwaka]
