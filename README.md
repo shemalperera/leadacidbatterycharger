@@ -15,7 +15,7 @@ This project scopes on a lead acid battery charger seamlessly interfaces with a 
 <img src="Functional Block Diagram.png" alt="Lead acid">
 
 ## Contributors
-[Shemal Perera]
-[Kehan Anjula]
-[Nipun Anisha]
-[Samudra Uduwaka]
+- [Shemal Perera]
+- [Kehan Anjula]
+- [Nipun Anisha]
+- [Samudra Uduwaka]
